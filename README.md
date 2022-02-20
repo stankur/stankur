@@ -23,6 +23,7 @@ Don't hesitate to invent a new way to call me and I'll add new ones to the list!
 - I have more screen time than socializing time
 - Single (because of the previous point)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
 
