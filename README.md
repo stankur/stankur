@@ -1,6 +1,6 @@
 ### Wuddupz world! Lil stanky in the house yo!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=dark)](https://github.com/stankur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=react)](https://github.com/stankur/github-readme-stats)
 
 
 <!--
