@@ -25,7 +25,7 @@ My real name is Stanley Kurniawan, but my family and friends call me:
 
 Thank you for reading :)
 
-[![stankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=stankur)](https://github.com/stankur/github-readme-stats)
+[![stankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
