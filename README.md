@@ -1,4 +1,7 @@
-### Hi there 👋
+### Wuddupz world! Lil stanky in the house yo!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur)](https://github.com/stankur/github-readme-stats)
+
 
 <!--
 **stankur/stankur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
