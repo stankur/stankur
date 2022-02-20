@@ -2,6 +2,8 @@
 
 ---
 
+henlo :)
+
 My real name is Stanley Kurniawan, but my family and friends call me: 
 
 - Stanley
@@ -22,6 +24,8 @@ All these aliases make me feel like a Russian spy.
 - I love trying hard to achieve one thing at a time
 - I have more screen time than socializing time
 - Single (because of the previous point)
+
+Thank you for reading :)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
