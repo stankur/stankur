@@ -21,7 +21,7 @@ My real name is Stanley Kurniawan, but my family and friends call me:
 - I love exploring new things
 - I love trying hard to achieve one thing at a time
 - I have more screen time than socializing time
-- Single (because of the previous point)
+- Single (mainly because of previous point)
 
 Thank you for reading :)
 
