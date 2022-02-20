@@ -6,13 +6,13 @@ My real name is Stanley Kurniawan, but my family and friends call me:
 
 - Stanley
 - Stankur
-- Bebek (which means duck in Indonesian cuz I look like a duck in real life lmao)
+- Bebek (which means duck in Indonesian cuz I look like a duck in real life)
 - Botak (which means bald in Indonesia cuz I cut my hair real short so that I could extend the time to the next haircut)
 - Yubun
 - Kurkur
 - Kur
 
-Don't hesitate to invent a new way to call me and I'll add new ones to the list! It makes me feel like a Russian spy 😎
+All these aliases make me feel like a Russian spy.
 
 "Fun" facts about me:
 
