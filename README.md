@@ -14,8 +14,6 @@ My real name is Stanley Kurniawan, but my family and friends call me:
 - Kurkur
 - Kur
 
-All these aliases make me feel like a Russian spy.
-
 "Fun" facts about me:
 
 - I am lactose intolerant
