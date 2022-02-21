@@ -1,7 +1,5 @@
-### Wudupzz World!
+### Hello world, u suck lol
 
-
-henlo :)
 
 My name is Stanley, but you can call me anytime.
 
