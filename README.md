@@ -1,7 +1,7 @@
-### Hello world, u suck lol
+### Henlo world, u suck lol
 
 
-My name is Stanley, but you can call me anytime.
+My name is Stanley Kurniawan.
 
 "Fun" facts about me:
 
