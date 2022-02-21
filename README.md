@@ -1,18 +1,9 @@
 ### Wudupzz World!
 
----
 
 henlo :)
 
-My real name is Stanley Kurniawan, but my family and friends call me: 
-
-- Stanley
-- Stankur
-- Bebek (which means duck in Indonesian cuz I look like a duck in real life)
-- Botak (which means bald in Indonesia cuz I cut my hair real short so that I could extend the time to the next haircut)
-- Yubun
-- Kurkur
-- Kur
+My name is Stanley, but you can call me anytime.
 
 "Fun" facts about me:
 
