@@ -16,7 +16,7 @@ Thank you for reading :)
 
 [![stankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalosman&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
 
 <!--
