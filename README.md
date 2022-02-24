@@ -12,7 +12,7 @@ My name is Stanley Kurniawan.
 - I have more screen time than socializing time
 - Single (mainly because of previous point)
 
-Thank you for reading :)
+Thank you for reading lol :)
 
 [![stankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
