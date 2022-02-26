@@ -9,10 +9,8 @@ My name is Stanley Kurniawan.
 - I like milk
 - I love exploring new things
 - I love trying hard to achieve one thing at a time
-- I have more screen time than socializing time
-- Single (mainly because of previous point)
 
-Thank you for reading lol :)
+Also cockroaches are terrorists >:(
 
 [![stankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
