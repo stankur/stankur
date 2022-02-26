@@ -1,4 +1,4 @@
-### Henlo world, u suck lol
+### HenLo WOrLD
 
 
 My name is Stanley Kurniawan.
@@ -9,8 +9,6 @@ My name is Stanley Kurniawan.
 - I like milk
 - I love exploring new things
 - I love trying hard to achieve one thing at a time
-
-Also cockroaches are terrorists >:(
 
 [![stankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
