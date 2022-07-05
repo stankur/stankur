@@ -1,6 +1,6 @@
 Hii! My name is Stanley Kurniawan. I am a lactose intolerant person who loves chocolate milk 👍
 
-I love exploring and creating things while simultaneously solving problems people face. Making things that people love and enjoy using gives me joy beyond words that's worth dying for. I am always looking forward to embark on new journeys of bigger projects to solve bigger and more general problems, so hit me up if you have some project ideas you think we might enjoy :)
+I love exploring and creating things while simultaneously solving problems people face. Making things that people love and enjoy using gives me joy beyond words and is essentially what I strive for everyday. I am always looking forward to embark on new journeys of bigger projects to solve bigger and more general problems, so hit me up if you have some project ideas you think we might enjoy :)
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
