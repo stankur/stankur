@@ -1,7 +1,5 @@
 I don't know where I'll end up, but for now, I really find any type of platform interesting. I like the idea of creating something that people could get together on, with their goals served. We are simply butlers, being there for the people, taking pride in our service.
 
-Please contact me if you want to build something that serves both our values :) I'm down to creating anything as long as each of us is willing to invest the time needed to make the project great! <- I really mean that. 
-
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
