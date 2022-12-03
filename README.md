@@ -1,4 +1,4 @@
-I don't know where I'll end up, but for now, I really find any type of platform interesting. I like the idea of creating something that people could get together on, with their goals served. We are simply butlers, being there for the people, taking pride in our service.
+I don't know where I'll end up, but for now, I really find any type of platform interesting. I like the idea of creating something that people could get together on, with their goals served. I like building things :D
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
