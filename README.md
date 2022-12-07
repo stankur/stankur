@@ -1,4 +1,4 @@
-I don't know where I'll end up, but for now, I really find any type of platform interesting. I like the idea of creating something that people could get together on, with their goals served. I like building things :D
+I want to build everything I can.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
