@@ -1,4 +1,4 @@
-I don't have much experience, but I want to build cool things loved by lots of people. Maybe not yet, but I will brute force my way to it just like everything else in my life.
+I want to build cool things loved by lots of people. Maybe not yet, but I will brute force my way to it just like everything else in my life.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
