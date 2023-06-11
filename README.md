@@ -2,7 +2,7 @@ I want to build cool things loved by lots of people. Maybe not yet, but I will b
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankur&theme=react&layout=compact&hide=jupyter%20notebook)](https://github.com/stankur/github-readme-stats)
 
 
 
