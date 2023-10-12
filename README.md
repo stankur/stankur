@@ -1,4 +1,4 @@
-I want to build cool things loved by lots of people. Maybe not yet, but I will brute force my way to it just like everything else in my life.
+My name is Stanley and I like to think.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
