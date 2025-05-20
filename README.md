@@ -1,4 +1,4 @@
-At the end of the day, if you think about it, the product of a life is an obituary. Perhaps, Paul Graham is right when he said doing things you know won't end up in your obituary is a waste of time. I just want to be intellectually honest, cynical, and do impressive things that matter as measured by some objective standards. I am afraid sometimes, but I guess that's okay. I'm just a clueless curious little kid trying to walk through the fluctuating surface of a massive search space. I might not even get there, but to die trying is better than to live without purpose.
+The world is a blank canvas, and I'm a painter. Get out of the way lemme paint some cool shit :D
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
