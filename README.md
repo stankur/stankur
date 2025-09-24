@@ -1,6 +1,6 @@
 The world is a blank canvas, and I'm a painter. Get out of the way lemme paint some cool shit :D
 
-I am also a gambler. But not a stupid one ;)
+Never give up, Never back down, Never stop, Never die
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=stankur&theme=react&layout=compact)](https://github.com/stankur/github-readme-stats)
 
