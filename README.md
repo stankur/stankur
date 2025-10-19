@@ -1,4 +1,4 @@
-The world is a blank canvas, and I'm a painter. Get out of the way lemme paint some cool shit :D
+The world is a blank canvas, and I'm a painter. Get out of the way lemme paint some cool shit, motherfucker :D
 
 Never give up, Never back down, Never stop, Never die
 
